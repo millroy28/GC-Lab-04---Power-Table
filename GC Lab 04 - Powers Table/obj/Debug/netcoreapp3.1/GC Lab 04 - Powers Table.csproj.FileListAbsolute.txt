@@ -1,0 +1,13 @@
+C:\Users\millr\source\repos\GC Lab 04 - Powers Table\GC Lab 04 - Powers Table\bin\Debug\netcoreapp3.1\GC Lab 04 - Powers Table.exe
+C:\Users\millr\source\repos\GC Lab 04 - Powers Table\GC Lab 04 - Powers Table\bin\Debug\netcoreapp3.1\GC Lab 04 - Powers Table.deps.json
+C:\Users\millr\source\repos\GC Lab 04 - Powers Table\GC Lab 04 - Powers Table\bin\Debug\netcoreapp3.1\GC Lab 04 - Powers Table.runtimeconfig.json
+C:\Users\millr\source\repos\GC Lab 04 - Powers Table\GC Lab 04 - Powers Table\bin\Debug\netcoreapp3.1\GC Lab 04 - Powers Table.runtimeconfig.dev.json
+C:\Users\millr\source\repos\GC Lab 04 - Powers Table\GC Lab 04 - Powers Table\bin\Debug\netcoreapp3.1\GC Lab 04 - Powers Table.dll
+C:\Users\millr\source\repos\GC Lab 04 - Powers Table\GC Lab 04 - Powers Table\bin\Debug\netcoreapp3.1\GC Lab 04 - Powers Table.pdb
+C:\Users\millr\source\repos\GC Lab 04 - Powers Table\GC Lab 04 - Powers Table\obj\Debug\netcoreapp3.1\GC Lab 04 - Powers Table.csprojAssemblyReference.cache
+C:\Users\millr\source\repos\GC Lab 04 - Powers Table\GC Lab 04 - Powers Table\obj\Debug\netcoreapp3.1\GC Lab 04 - Powers Table.csproj.CoreCompileInputs.cache
+C:\Users\millr\source\repos\GC Lab 04 - Powers Table\GC Lab 04 - Powers Table\obj\Debug\netcoreapp3.1\GC Lab 04 - Powers Table.AssemblyInfoInputs.cache
+C:\Users\millr\source\repos\GC Lab 04 - Powers Table\GC Lab 04 - Powers Table\obj\Debug\netcoreapp3.1\GC Lab 04 - Powers Table.AssemblyInfo.cs
+C:\Users\millr\source\repos\GC Lab 04 - Powers Table\GC Lab 04 - Powers Table\obj\Debug\netcoreapp3.1\GC Lab 04 - Powers Table.dll
+C:\Users\millr\source\repos\GC Lab 04 - Powers Table\GC Lab 04 - Powers Table\obj\Debug\netcoreapp3.1\GC Lab 04 - Powers Table.pdb
+C:\Users\millr\source\repos\GC Lab 04 - Powers Table\GC Lab 04 - Powers Table\obj\Debug\netcoreapp3.1\GC Lab 04 - Powers Table.genruntimeconfig.cache
